@@ -1,2 +1,2 @@
 # eppur-arch.github.io
-The web for Eppur Architects
+La web de los guñin-guñin
